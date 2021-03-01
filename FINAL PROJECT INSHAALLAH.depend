@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1542933406 source:e:\codeblocks\azizah 0731-0003\tugas pak fauzan\final project inshaallah\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
